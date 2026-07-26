@@ -89,5 +89,15 @@
 
 # dic4=dic2.copy() ------> Copiar elementos de un diccionario a otro en dic4 copiar lo de dic2 
 
+# ACTUALIZANDO DICCIONARIOS
+
+# dic1.update({0:333,2:"REEMPLAZO","k1":"valorR",(5,6):[1,1,1]})
+
+# dic1.update(dic2)
+
+# dic1.update(dic3)
+
+# dic1.update(dic4)
+
 
 
